@@ -1,0 +1,158 @@
+{
+  "nav": {
+    "studio": "Studio",
+    "workcenter": "Work Center",
+    "asisten": "Sekretaris/Asisten",
+    "metahuman": "Meta Human",
+    "produksi": "Studio Produksi Video",
+    "pengumuman": "Pengumuman",
+    "pertanyaankemitraan": "Pertanyaan Kemitraan"
+  },
+  "banner": {
+    "title": "Tell us",
+    "accent": "Tell",
+    "message": "us your story",
+    "inquiry": "Make an Inquiry",
+    "contact": {
+      "line1": "Contact",
+      "line2": "Us"
+    },
+    "button": {
+      "text1": "Production",
+      "text2": "Inquiry"
+    }
+  },
+  "videoSection": {
+    "title": "Tomorrow",
+    "subtitle": "now.",
+    "highlight": "'High Quality Custom Video'",
+    "demand": "AI VIDEO ON YOUR DEMAND",
+    "description1": "Not only virtual humans but also background images and music settings, we create videos with reduced cost and improved quality by adding touches of video experts to the best domestic generative AI technology.",
+    "description2": "Half the price, double the speed, quality A++! For corporate promotion, product introduction, education and events, indoor and guide videos, etc., leave the video you need to PLOONET Video Production.",
+    "features": {
+      "fast": {
+        "title": "FAST",
+        "subtitle": "x2"
+      },
+      "quality": {
+        "title": "QUALITY",
+        "subtitle": "A++"
+      },
+      "price": {
+        "title": "LOW PRICE",
+        "subtitle": "1/2"
+      },
+      "tech": {
+        "title": "HIGH TECH",
+        "subtitle": "Gen AI"
+      }
+    }
+  },
+  "works": {
+    "title": "PREVIOUS WORKS",
+    "items": {
+      "movieCount": {
+        "title": "Movie Count",
+        "description": "With the most scenes"
+      },
+      "aiLecture": {
+        "title": "AI Lecture",
+        "description": "AI Lecture Series"
+      },
+      "emotionalComputing": {
+        "title": "Emotional Computing",
+        "description": "Metahuman Learning Content"
+      },
+      "ploonetTablet": {
+        "title": "Ploonet Tablet!",
+        "description": "06 units in 40 days"
+      },
+      "screenGuide": {
+        "title": "Ploonet Studio",
+        "description": "Script Writing Tips"
+      },
+      "workCenter": {
+        "title": "Ploonet Work Center",
+        "description": "Easy to use for everyone"
+      },
+      "studyGuide": {
+        "title": "Alpha Go",
+        "description": "Want to know and want to go"
+      },
+      "awards": {
+        "title": "Awards Ceremony",
+        "description": "Year-end Award Winners"
+      }
+    }
+  },
+  "process": {
+    "title": "MAKING PROCESS",
+    "normal": {
+      "title": "Normal Production",
+      "subtitle": "Within 5 business days after production starts",
+      "steps": {
+        "step1": {
+          "title": "Pre-discussion",
+          "description": "Set direction and organize content through video production request and consultation"
+        },
+        "step2": {
+          "title": "Video Planning",
+          "description": "Storyboard creation & test shooting planning confirmation"
+        },
+        "step3": {
+          "title": "Video Generation",
+          "description": "Generate AI video with script, add images, background music, and necessary elements"
+        },
+        "step4": {
+          "title": "Video Editing",
+          "description": "Video editing, design, subtitle work, and additional filming if needed"
+        },
+        "step5": {
+          "title": "Final Delivery",
+          "description": "Reflect customer feedback and deliver + Free one-time video revision"
+        }
+      }
+    },
+    "quick": {
+      "title": "Ploonet Quickserve",
+      "subtitle": "Within 12-48 hours after production starts",
+      "steps": {
+        "step1": {
+          "title": "Production Guide",
+          "description": "Check request and provide quote and process guidance"
+        },
+        "step2": {
+          "title": "Video Generation",
+          "description": "Generate AI video immediately upon script receipt"
+        },
+        "step3": {
+          "title": "Edit & Deliver",
+          "description": "Edit and deliver final video within 12-48 hours"
+        }
+      }
+    }
+  },
+  "contact": {
+    "title": "Video Production Inquiry",
+    "subtitle": "If you need video production, please inquire now.",
+    "subtext": "PLOONET Video Production will contact you immediately to quickly create the video you need.",
+    "email": "henry.lim@saitluv.com",
+    "form": {
+      "purposeLabel": "Select Video Type",
+      "purposes": [
+        "Corporate/Brand Promotion",
+        "Product/Service Introduction",
+        "Education/Lecture",
+        "Event Coverage",
+        "Others"
+      ],
+      "nameLabel": "Company/Client Name",
+      "emailLabel": "Email",
+      "phoneLabel": "Phone Number",
+      "messageLabel": "Video Content Details",
+      "messagePlaceholder": "Please describe what kind of production you want.\n\nBusiness Promotion: Advertising & Streaming/Small Business etc.\nVideo Format: Promotion, PR/Branding etc.\nContent: Please briefly describe the content of the video you want to create.",
+      "agreement": "I agree to the privacy policy.",
+      "submit": "Send Inquiry"
+    }
+  }
+}

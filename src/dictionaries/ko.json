@@ -1,0 +1,150 @@
+{
+  "nav": {
+    "studio": "스튜디오",
+    "workcenter": "워크센터",
+    "asisten": "손비서",
+    "metahuman": "메타휴먼",
+    "produksi": "영상제작소",
+    "pengumuman": "공지사항",
+    "pertanyaankemitraan": "제휴문의"
+  },
+  "banner": {
+    "title": "말씀해 주세요",
+    "accent": "저희",
+    "message": "에게 말기세요",
+    "inquiry": "제휴 문의하기",
+    "contact": {
+      "line1": "제작",
+      "line2": "문의하기"
+    },
+    "button": {
+      "text1": "제작",
+      "text2": "문의하기"
+    }
+  },
+  "videoSection": {
+    "title": "당장 내일",
+    "subtitle": "을 받아보세요.",
+    "highlight": "'고품질 맞춤 영상'",
+    "demand": "AI VIDEO ON YOUR DEMAND",
+    "description1": "가상인간과 뿐 아니라 배경 이미지와 음악 셋팅 등 국내 최고의 생성 AI 기술에 영상 전문가의 터치를 더해 대중 및 시간은 절감하고 퀄리티는 높임된 영상을 만듭니다.",
+    "description2": "가격은 절반으로, 속도는 두배로, 품질은 A++! 기업 홍보, 제품 소개, 교육 및 행사, 실내 및 안내 영상 등 당신이 필요한 그 영상을 플루넷 영상제작소에 맡겨주세요.",
+    "features": {
+      "fast": {
+        "title": "FAST",
+        "subtitle": "x2"
+      },
+      "quality": {
+        "title": "QUALITY",
+        "subtitle": "A++"
+      },
+      "price": {
+        "title": "LOW PRICE",
+        "subtitle": "1/2"
+      },
+      "tech": {
+        "title": "HIGH TECH",
+        "subtitle": "Gen AI"
+      }
+    }
+  },
+  "works": {
+    "title": "PREVIOUS WORKS",
+    "items": {
+      "movieCount": {
+        "title": "영화 수의극?"
+      },
+      "aiLecture": {
+        "title": "AI 강의"
+      },
+      "emotionalComputing": {
+        "title": "감성컴퓨팅"
+      },
+      "ploonetTablet": {
+        "title": "플팀 태블릿!"
+      },
+      "screenGuide": {
+        "title": "플루넷 스튜디오"
+      },
+      "workCenter": {
+        "title": "플루넷 워크센터"
+      },
+      "studyGuide": {
+        "title": "알파고"
+      },
+      "awards": {
+        "title": "시상식"
+      }
+    }
+  },
+  "process": {
+    "title": "MAKING PROCESS",
+    "normal": {
+      "title": "일반 제작",
+      "subtitle": "제작 시작 후 5영업일 이내",
+      "steps": {
+        "step1": {
+          "title": "사전 논의",
+          "description": "영상 제작 요청을 통해 의뢰 취지 및 상담을 통해 방향 설정 및 내용 정리"
+        },
+        "step2": {
+          "title": "영상 기획",
+          "description": "스토리보드 작성&시험 촬영 기획안 확정 기획안과 방향을 스크립트 작성과 프로젝팅"
+        },
+        "step3": {
+          "title": "영상 생성",
+          "description": "작성된 스크립트로 기상인간 영상 생성 그래 이미지, 배경 음악 등 필요 요소 첨삭"
+        },
+        "step4": {
+          "title": "영상 편집",
+          "description": "영상 안팎기의 편집, 디자인, 자막 작업 등에 필요시 삭제 활영 겸영하여 콘텐츠 완성"
+        },
+        "step5": {
+          "title": "최종 납품",
+          "description": "고객 피드백 반영하여 튜토된 온라인 및 납품 + 영상 수정 무료 1회 제공"
+        }
+      }
+    },
+    "quick": {
+      "title": "Ploonet Quickserve",
+      "subtitle": "제작 시작 후 12~48시간 이내",
+      "steps": {
+        "step1": {
+          "title": "제작 안내",
+          "description": "영상 제작 요청을 통해 의뢰 확인 후 견적 및 견적 순서 안내"
+        },
+        "step2": {
+          "title": "영상 생성",
+          "description": "스크립트 수신 즉시 가상인간 영상 생성 그래 이미지, 배경 음악 등 필요 요소 첨삭"
+        },
+        "step3": {
+          "title": "편집 및 납품",
+          "description": "편집 진행, 12~48시간 내 최종본 영상 및 납품"
+        }
+      }
+    }
+  },
+  "contact": {
+    "title": "영상 제작 문의",
+    "subtitle": "영상 제작이 필요하다면, 지금 문의 주세요.",
+    "subtext": "여러분이 필요한 영상을 빠르게 제작하기 위해 플루넷 영상제작소가 즉시 연락 드리겠습니다.",
+    "email": "henry.lim@saitluv.com",
+    "form": {
+      "purposeLabel": "영상 유형 선택",
+      "purposes": [
+        "기업/브랜드 홍보영상",
+        "제품/서비스 소개영상",
+        "교육/강의 영상",
+        "행사/이벤트 영상",
+        "기타"
+      ],
+      "nameLabel": "영합 받으실 업체/고객 성함",
+      "emailLabel": "이메일",
+      "phoneLabel": "연락처 번호",
+      "messageLabel": "의뢰하실 영상내용",
+      "messagePlaceholder": "어떤 제작을 원과하시서 어 중 편하신 내용을 기재해주세요.\n\n국적넌의 비즈니스 홍보 : 광고&서비밍망상/소상공인 등\n영상 포맷 : 홍보, 프로모션/pr/브랜드레이션 등\n내용 : 제작하시고자 하는 영상의 내용을 간단히 기재해주세요.",
+      "agreement": "개인정보처리방침에 동의합니다.",
+      "submit": "문의 보내기"
+    }
+  }
+}
