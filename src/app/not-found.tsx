@@ -16,8 +16,8 @@ const NotFound = () => {
             We Have a Problem!
           </h2>
           <p className="text-gray-400 text-lg">
-            Looks like you've drifted into unknown space. This page is lost in
-            the void.
+            Looks like you&apos;ve drifted into unknown space. This page is lost
+            in the void.
           </p>
         </div>
 

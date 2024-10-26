@@ -58,7 +58,8 @@ export default function VideoSection({
             영상 제작소
           </h2>
           <p className="text-white text-3xl md:text-4xl lg:text-5xl tracking-tight leading-tight font-light">
-            당장 내일 <span className="font-bold">'고품질 맞춤 영상'</span>을
+            당장 내일{" "}
+            <span className="font-bold">&lsquo;고품질 맞춤 영상&rsquo;</span>을
             받아보세요.
           </p>
         </div>
